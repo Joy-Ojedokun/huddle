@@ -1,0 +1,324 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+body {
+    background-color: white;
+}
+
+.build {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.messages {
+    display: flex;
+}
+
+.free {
+    display: inline-block;
+    margin-left: 90%;
+    width: 80px;
+    border-radius: 3rem;
+    color: rgb(212, 152, 162);
+    background-color: white;
+}
+
+.voice {
+    margin-top: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.hate {
+    margin-top: 30px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.get {
+    background-color: rgb(201, 62, 127);
+    color: white;
+    height: 30px;
+    width: 130px;
+    border-radius: 3rem;
+}
+
+.access {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.access img {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.community {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.grow {
+    justify-content: right;
+    align-items: right;
+    display: flex;
+    background-color: hsl(207, 100%, 98%);
+}
+
+.mock {
+    border: none;
+}
+
+.together {
+    width: 600px;
+}
+
+.set {
+    margin-right: 40px;
+}
+
+.Grow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(240, 250, 250);
+}
+
+.strong {
+    margin-left: 50px;
+}
+
+.online {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.online img {
+    width: 600px;
+    margin-left: 50px;
+}
+
+.conversation {
+    margin-right: 80px;
+}
+
+.users {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(240, 250, 250);
+}
+
+.users img {
+    width: 600px;
+    margin-right: 40px;
+}
+
+.chatting {
+    margin-left: 80px;
+}
+
+.for {
+    background-color: hsl(321, 70%, 52%);
+    width: 140px;
+    border-radius: 3rem;
+    height: 30px;
+    color: white;
+    margin-top: 20px;
+}
+
+.but {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.builder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.desk {
+    margin-top: 60px;
+    margin-bottom: -5px;
+    position: relative;
+    z-index: -1;
+}
+
+.joy {
+    background-color: hsl(192, 100%, 9%);
+    color: white;
+    display: flex;
+}
+
+.jay {
+    border-color: white;
+    margin-left: 60px;
+}
+
+.lorem {
+    background-color: hsl(192, 100%, 9%);
+    color: white;
+}
+
+.dolor {
+    margin-left: 60px;
+}
+
+.phone {
+    padding-left: 60px;
+}
+
+.sect {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: -1;
+}
+
+
+.phones {
+    color: white;
+    display: flex;
+    padding-top: 20px;
+}
+
+.top {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: -1;
+}
+
+
+.him {
+    padding-left: 20px;
+}
+
+.her {
+    color: white;
+    display: flex;
+    padding-top: 20px;
+}
+
+.she {
+    padding-left: 60px;
+}
+
+.he {
+    padding-left: 20px;
+}
+
+.faces {
+    color: white;
+    display: flex;
+    margin-top: 20px;
+}
+
+.news {
+    display: flex;
+    background-color: hsl(192, 100%, 9%);
+    color: white;
+    text-align: right;
+    justify-content: right;
+    text-align: right;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.mike {
+    display: flex;
+    background-color: hsl(192, 100%, 9%);
+    gap: 1rem;
+}
+
+.red,
+.blue {
+    padding: 50px;
+    color: white;
+}
+
+.flex {
+    display: flex;
+    gap: 10px;
+}
+
+.last {
+    width: 14px;
+    height: 14px;
+    margin-top: 23px;
+}
+
+.flex1 {
+    display: flex;
+    gap: 10px;
+}
+
+.last1 {
+    width: 14px;
+    height: 14px;
+    margin-top: 23px;
+}
+
+.paraa {
+    padding-top: 20px;
+}
+
+
+.bluu {
+    margin-top: 10px;
+}
+
+.mama {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 30px;
+}
+
+.form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.input {
+    height: 2rem;
+    width: 35%;
+    border-radius: 6px;
+}
+
+.input::placeholder {
+    padding-left: 10px;
+}
+
+.butt {
+    height: 2rem;
+    width: 35%;
+    background-color: rgb(255, 80, 109);
+    color: white;
+    border-radius: 6px;
+}
+
+@media (max-width: 500px) {
+    .img {
+        max-width: 100%;
+    }
+
+}
